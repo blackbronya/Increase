@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/Main interface.unity
+    guid: fce6631a3e9da1845b545ec8c3d14a7f
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: 791b815a2c41694419d6d3592d182179
+  - enabled: 0
+    path: Assets/Scenes/CBR-16-G.unity
+    guid: 46ee1703515a38d47b8e0041c89598d8
+  - enabled: 0
+    path: Assets/Scenes/Birb.unity
+    guid: f5bf2ce45444bff45b828dcf10073afc
+  m_configObjects: {}

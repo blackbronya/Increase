@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Scenes/CBR-16-G.unity
+  isLoaded: 1
+  isActive: 1
